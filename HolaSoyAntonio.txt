@@ -1,9 +1,6 @@
  Hola, Git:
 
-¿Qué tal todo?
-
-Saludos
-
+Pos ya estaría
 
 
 
